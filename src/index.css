@@ -1,0 +1,126 @@
+h1 {
+  color: #032d60;
+    cursor: pointer;
+    font-size: 50px!important;
+    line-height: 60px!important;
+    font-family: ITC Avant Garde!important;
+}
+
+
+
+.Second{
+  color: #032d60;
+  font-size: 30px;
+  line-height: 50px!important;
+}
+
+.Btn {
+   
+  color: #FFFFFF;
+}
+
+.B1{
+  background-color:green;
+  line-height: 20px!important;
+}
+
+.B2{
+  background-color:blue;
+  line-height: 20px!important;
+}
+
+.link{
+  text-align: center;
+  font-size: 40px;
+  color: #032d60;
+}
+
+
+.A{
+  color: #032d60;
+    font-size: 24px!important;
+    line-height: 28px!important;
+    font-weight: 400;
+    font-size: 36px!important;
+    line-height: 40px!important;
+    text-align: center;
+}
+
+
+
+.Last{
+  color: #032d60;
+  font-size: 25px;
+  text-align: center;
+}
+
+.x3{
+  color:blue;
+}
+.B3{
+  background-color:transparent;
+  border-color: blue;
+  text-align: center;
+  vertical-align: middle;
+}
+
+h3{
+  color: #032d60;
+}
+
+a{
+  color:navy;
+}
+
+.WD1{
+  background-color:blue;
+  line-height: 40px!important;
+}
+
+.WD2{
+  background-color:blue;
+  line-height: 40px!important;
+}
+
+.WD3{
+  background-color:blue;
+  line-height: 40px!important;
+}
+
+.WD4{
+  background-color:blue;
+  line-height: 40px!important;
+}
+
+.F{
+  font-size: 18px;
+}
+
+hr{
+  border-bottom: 5px solid rgb(0, 162, 255);
+  width: 100%;
+}
+
+.H{
+  text-align: right;
+}
+
+.OO{
+  background-color: green;
+  line-height: 30px!important;
+}
+
+.center{
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: small;
+}
+
+.TD{
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+}
